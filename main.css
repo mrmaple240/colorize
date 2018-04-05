@@ -13,7 +13,7 @@ body{--base-color:#36393e;}
 .guild-inner a[href*="/@me/"],.member-2FrNV0 .content-3JzEqq{position:relative;}
 .guilds-wrapper .guilds .guild .guild-inner a{border-radius:inherit;overflow:hidden;}
 .guilds-wrapper .guilds .guild .guild-inner:not(#bd-pub-li){overflow:visible;height:50px;width:100%;}
-.channels-3g2vYe,.theme-dark .channel-members,.theme-dark .search-results-wrap,.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .body-3ljq11,.theme-dark .footer-2wFs91,.theme-dark .footer-1PYmcw,.private-channel-recipients-invite .header .search-bar{background:rgba(0,0,0,.14);}
+.channels-3g2vYe,.theme-dark .members-1bid1J,.theme-dark .search-results-wrap,.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .body-3ljq11,.theme-dark .footer-2wFs91,.theme-dark .footer-1PYmcw,.private-channel-recipients-invite .header .search-bar{background:rgba(0,0,0,.14);}
 .container-iksrDt,.container-3lnMWU{background:rgba(0,0,0,.1)}
 .guilds-wrapper .guilds-add{background:rgba(0,0,0,.04)/*not exact*/}
 .container-3lnMWU{border-bottom: 1px solid rgba(255,255,255,.05);}
