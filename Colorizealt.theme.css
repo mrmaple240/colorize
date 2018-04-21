@@ -104,6 +104,8 @@ body{
 .theme-dark .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled{border-top-color:rgba(0,0,0,.486);border-left-color:rgba(0,0,0,.486)}
 .theme-dark .resultsGroup-2qzvNj:before{border-top-color:rgba(0,0,0,.2);}
 .theme-dark .resultFocused-2geRUA{background:rgba(0,0,0,.3);}
+.theme-dark .menu-3BZuDT{background:var(--base-color) linear-gradient(rgba(0,0,0,.245),rgba(0,0,0,.245))}
+.theme-dark .menu-3BZuDT .item-rK1j5B:hover{background:rgba(0,0,0,.1)}
 .scroller-wrap>.messages.scroller::-webkit-scrollbar-thumb,.search-results-wrap .scroller-fzNley::-webkit-scrollbar-thumb,.private-channel-recipients-invite .body .scroller-fzNley::-webkit-scrollbar-thumb,#autocomplete-popout .autocomplete-scroller::-webkit-scrollbar-thumb{background-color:rgba(0,0,0,.4)!important;border-color:transparent!important}
 .scroller-wrap>.messages.scroller::-webkit-scrollbar-track-piece,.search-results-wrap .scroller-fzNley::-webkit-scrollbar-track-piece{background:transparent!important;border:none!important;}
 .scroller-wrap>.messages.scroller::-webkit-scrollbar-track,.search-results-wrap .scroller-fzNley::-webkit-scrollbar-track{background:rgba(0,0,0,.14)!important;border:2px solid var(--base-color)!important;border-radius:7.5px}
