@@ -100,7 +100,7 @@ body{background:#000}
 .theme-dark .button-1qrA-N{box-shadow: 0 0 0 1px rgba(0,0,0,.22),0 1px 5px 0 rgba(0,0,0,.3);}
 .theme-dark.contextMenu-uoJTbz{background:var(--base-color) linear-gradient(rgba(0,0,0,.24),rgba(0,0,0,.24))}
 .theme-dark .item-1XYaYf:hover{background-color:rgba(0,0,0,.07)}
-/*TO FIX*/.popout-top #autocomplete-popout{background:var(--base-color)}
+/*TO FIX*/#autocomplete-popout{background:var(--base-color)}
 .theme-dark #autocomplete-popout .row.selected{background:linear-gradient(90deg,rgba(0,0,0,.11),transparent);}
 .theme-dark #autocomplete-popout section{background:rgba(0,0,0,.14);}
 .theme-dark #autocomplete-popout .autocomplete-arrow,.theme-dark .divider-ShvCWe{background:var(--base-color) linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4));}
