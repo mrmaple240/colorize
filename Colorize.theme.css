@@ -3,9 +3,11 @@
 body{
 
 
-    /* EDIT THIS HEX COLOR BELOW */
-    --base-color: #36393e;
+    /* EDIT HEX COLORS BELOW */
+    --base-color: #36393f  ;
 
+
+    --accent-color: #7289da  ;
 
 
 
