@@ -1,4 +1,4 @@
-//META{"name":"Colorize","description":"A semi-user friendly theme controlled with a single hex color,just edit the top hex color in the theme file to your own","author":"maple#1234","version":"1.12"}*//{}
+//META{"name":"Colorize","description":"A semi-user friendly theme controlled with a single hex color,just edit the top hex color in the theme file to your own","author":"maple#1234","version":"1.13"}*//{}
 
 
 
@@ -71,7 +71,7 @@ body{background:#000;}
 #bd-pub-li a{height:100%;}
 .divider+.divider{margin-top:22px}
 .guild-inner a[href*="/@me/"],.member-3W1lQa .content-OzHfo4{position:relative;}
-.guilds-wrapper .guilds .guild .guild-inner a{border-radius:inherit;overflow:hidden;}
+.guilds-wrapper .guilds .guild .guild-inner a,.guilds-wrapper .guilds .guild .avatar-small{border-radius:inherit;overflow:hidden;}
 .guilds-wrapper .guilds .guild .guild-inner:not(#bd-pub-li){overflow:visible;height:50px;width:100%;}
 .channels-Ie2l6A,.theme-dark .members-1998pB,.theme-dark .search-results-wrap,.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .body-3iLsc4,.theme-dark .footer-1fjuF6,.theme-dark .footer-2yfCgX,.bd-modal-wrapper .footer,.private-channel-recipients-invite .header .search-bar,.theme-dark .option-96V44q.selected-rZcOL-,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover,.modal-3HD5ck .search-bar{background:rgba(0,0,0,.14);}
 .theme-dark .themed-popout .header,.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u:active{background:var(--base-color) linear-gradient(rgba(0,0,0,.01),rgba(0,0,0,.01))}
@@ -286,4 +286,4 @@ body{background:#000;}
 .theme-dark .search-results-wrap .channel-separator:before{display:flex;position:relative;order:2;height:0;margin:auto 4px auto 0;flex:1 1 auto;}
 #bd-settings-sidebar{display:flex;flex-flow:column;}
 #bd-settings-sidebar:before{order:2;content:"Notice:";padding:8px 10px 0px;color:rgba(255,255,255,.76);font-size:16px;font-weight:500}
-#bd-settings-sidebar:after{content:"If you find an untouched part of discord for Colorize please redownload your theme,otherwise,contact lol#8160";font-size:14px;color:rgba(255,255,255,.58);order:3;padding:2px 10px}
+#bd-settings-sidebar:after{content:"If you find an untouched part of discord for Colorize please redownload your theme, otherwise contact lol#8160";font-size:14px;color:rgba(255,255,255,.58);order:3;padding:2px 10px}
