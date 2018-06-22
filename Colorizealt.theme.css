@@ -220,7 +220,6 @@ body .newsLink-38Naqi:hover{background:var(--base-color) linear-gradient(rgba(0,
 .create-guild-container.deprecated .action.create .action-icon{-webkit-mask:url(https://canary.discordapp.com/assets/845d431ebfc24e13a0b31f7e64fc612b.png) 50% center/112px 78px no-repeat;}
 .theme-dark .emptyIconGuilds-3OViNh{-webkit-mask:url(/assets/87ad02315e38924402c7fb5017cf11ab.svg) 50%/cover}
 .theme-dark .emptyIconGuilds-3OViNh:before{clip-path:polygon(0 0,100% 0,100% 100%,50% 100%,50% 128px,129px 128px,129px 112px,112px 112px,112px 128px,50% 128px,50% 100%,0 100%);}
-.theme-dark .emptyIconFriends-BrjhY9{-webkit-mask:url(/assets/ca3f5ec71bb86c6aeb015bb0d54a10fa.svg);}
 .theme-dark .emptyIconFriends-BrjhY9:before{clip-path:polygon(0 0,100% 0,100% 100%,50% 100%,50% 123px,133px 123px,133px 107px,117px 107px,117px 123px,50% 123px,50% 100%,0 100%);}
 .theme-dark #friends .friends-empty.section-online .empty-state-image{-webkit-mask:url(/assets/12ce59260e50f1f80302bb73f06cc8c0.png) 50%/contain}
 #friends .friends-empty.section-all .empty-state-image:before{-webkit-mask:url(https://cdn.discordapp.com/attachments/211774571836080128/440205732907057182/wumpusfriendsall.png) 50%/contain}
