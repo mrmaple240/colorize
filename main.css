@@ -184,16 +184,6 @@ body .newsLink-38Naqi:hover{background:var(--base-color) linear-gradient(rgba(0,
 .accessory .attachment-33OFj0.directionRow-3v3tfG [src]+.attachmentInner-3vEpKt{position:relative;z-index:1;overflow:visible;height:30px}
 .accessory .attachment-33OFj0.directionRow-3v3tfG [src*=".svg"]{z-index:2;mix-blend-mode:luminosity;}
 .accessory .attachment-33OFj0.directionRow-3v3tfG [src*=".svg"]+.attachmentInner-3vEpKt:before{content:'';position:absolute;width:30px;height:40px;background:var(--accent-color);left:-38px;top:-5px;-webkit-mask:url(/assets/985ea67d2edab4424c62009886f12e44.svg) 50%;}
-.content-region .image-1GzsFd[style*='url("/assets/e9aaf1824f17126a7992e5ad98752389.svg");']{-webkit-mask:url(/assets/e9aaf1824f17126a7992e5ad98752389.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/f3bb89a27e9d102f748da035cd7e5df7.svg");']{-webkit-mask:url(/assets/f3bb89a27e9d102f748da035cd7e5df7.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/d01c53acda73318e5b39676ef8242eb7.svg");']{-webkit-mask:url(/assets/d01c53acda73318e5b39676ef8242eb7.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/b47564b3086d0d8d941aae95a4b7b78c.svg");']{-webkit-mask:url(/assets/b47564b3086d0d8d941aae95a4b7b78c.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/59c726954bd8424f376ca3a7eedc4c54.svg");']{-webkit-mask:url(/assets/59c726954bd8424f376ca3a7eedc4c54.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/a7371de3223292c6f31f8aeed62f17c1.svg");']{-webkit-mask:url(/assets/a7371de3223292c6f31f8aeed62f17c1.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/97b178f31f0ec28b41387b78891d5b7a.svg");']{-webkit-mask:url(/assets/97b178f31f0ec28b41387b78891d5b7a.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/712a0fd4d14a1caadd31cb0745e91238.svg");']{-webkit-mask:url(/assets/712a0fd4d14a1caadd31cb0745e91238.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/789de85a973b1d974a21aa03c1e14323.svg");']{-webkit-mask:url(/assets/789de85a973b1d974a21aa03c1e14323.svg) 50%/contain;}
-.content-region .image-1GzsFd[style*='url("/assets/99253cefda98913b1e9f7d155ad81ed3.svg");']{-webkit-mask:url(/assets/99253cefda98913b1e9f7d155ad81ed3.svg) 50%/contain;}
 .exclamation-1mi7Vi{-webkit-mask:url(/assets/7616be62f9b90270b5a2e1fe9d2ece4f.svg) 50% no-repeat;}
 .share-1EA-d2{-webkit-mask:url(/assets/07778297eb1e1e3d9bd3cd302920d5fb.svg) 50% no-repeat;}
 .mobile-3_KEmF{-webkit-mask:url(/assets/83d501f2b7dd2987302ce29b321f4494.svg) 50% no-repeat}
