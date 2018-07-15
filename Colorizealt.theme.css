@@ -1,4 +1,4 @@
-//META{"name":"Colorize","description":"A semi-user friendly theme controlled with a single hex color,just edit the top hex color in the theme file to your own","author":"maple#1234","version":"1.15"}*//{}
+//META{"name":"Colorize","description":"A semi-user friendly theme controlled with a single hex color,just edit the top hex color in the theme file to your own","author":"maple#1234","version":"1.16"}*//{}
 
 
 
@@ -155,6 +155,8 @@ body{background:#000;}
 .theme-dark .button-mM-y8i{box-shadow:0 0 0 1px rgba(0,0,0,.22),0 1px 5px 0 rgba(0,0,0,.3);}
 .theme-dark.contextMenu-HLZMGh{background:var(--base-color) linear-gradient(rgba(0,0,0,.24),rgba(0,0,0,.24))}
 .theme-dark .item-1GzJrl:hover,.theme-dark .item-1Yvehc:hover{background-color:rgba(0,0,0,.07)}
+.theme-dark .container-1rPqdX{background:var(--base-color) linear-gradient(rgba(0,0,0,.56),rgba(0,0,0,.56))}
+.theme-dark .button-1ZXqCA:active, .theme-dark .button-1ZXqCA:hover{background:rgba(0,0,0,.86)}
 /*TO FIX*/#autocomplete-popout{background:var(--base-color)}
 .theme-dark #autocomplete-popout .row.selected{background:linear-gradient(90deg,rgba(0,0,0,.11),transparent);}
 .theme-dark #autocomplete-popout section{background:rgba(0,0,0,.14);}
